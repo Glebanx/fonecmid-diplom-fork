@@ -10,4 +10,7 @@
   <content>Catalog.ДоговорыКонтрагентов</content>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>Catalog.ВКМ_ФизическиеЛица</content>
+  <content>Role.ВКМ_ДокументОбслуживанияЧтениеЗапись</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
 </mdclass:Subsystem>
