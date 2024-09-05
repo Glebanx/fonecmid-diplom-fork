@@ -13,4 +13,6 @@
   <content>Role.ВКМ_ДокументОбслуживанияЧтениеЗапись</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>Catalog.ВКМ_УчетныеЗаписиТелеграм</content>
+  <content>HTTPService.ВКМ_Боты</content>
 </mdclass:Subsystem>
