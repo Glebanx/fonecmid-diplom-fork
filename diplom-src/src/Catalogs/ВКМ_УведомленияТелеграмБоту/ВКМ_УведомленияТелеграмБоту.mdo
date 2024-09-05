@@ -13,20 +13,14 @@
     <value>Уведомления телеграм боту</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.ВКМ_УведомленияТелеграмБоту.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.ВКМ_УведомленияТелеграмБоту.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
   <fullTextSearch>Use</fullTextSearch>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
-  <codeLength>5</codeLength>
-  <descriptionLength>25</descriptionLength>
   <codeType>String</codeType>
   <codeAllowedLength>Variable</codeAllowedLength>
-  <checkUnique>true</checkUnique>
-  <autonumbering>true</autonumbering>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <attributes uuid="e34cb923-448f-41cf-8fee-114cdadc7605">
