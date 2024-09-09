@@ -578,6 +578,8 @@
   <roles>Role.ВКМ_ДокументОбслуживанияЧтениеЗапись</roles>
   <roles>Role.ВКМ_ИспользованиеБотов</roles>
   <roles>Role.ВКМ_МассовоеСозданиеДокументовРеализации</roles>
+  <roles>Role.ВКМ_РасчетЗарплаты</roles>
+  <roles>Role.ВКМ_ГрафикОтпусков</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияПоСозданиюФаксимильнойПодписиИПечати</commonTemplates>
