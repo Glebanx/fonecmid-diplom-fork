@@ -20,4 +20,5 @@
   <content>CalculationRegister.ВКМ_Удержания</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
 </mdclass:Subsystem>

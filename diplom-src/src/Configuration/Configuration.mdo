@@ -1165,6 +1165,7 @@
   <documents>Document.ВКМ_ВходящийHTTPЗапрос</documents>
   <documents>Document.ВКМ_НачисленияЗарплаты</documents>
   <documents>Document.ВКМ_НачислениеФиксированныхПремий</documents>
+  <documents>Document.ВКМ_ВыплатаЗарплаты</documents>
   <documentJournals>DocumentJournal.Деньги</documentJournals>
   <enums>Enum.ВариантыОчисткиФайлов</enums>
   <enums>Enum.ВариантыПериода</enums>
