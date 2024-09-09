@@ -32,4 +32,5 @@
   <content>CommonModule.ВКМ_ОбщегоНазначенияHTTP</content>
   <content>CommonModule.ВКМ_РаботаСФормами</content>
   <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
 </mdclass:Subsystem>
