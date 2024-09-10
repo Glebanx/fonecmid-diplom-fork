@@ -37,4 +37,6 @@
   <content>Report.ВКМ_РасчётыССотрудниками</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
   <content>InformationRegister.ВКМ_ГрафикОтпусков</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
 </mdclass:Subsystem>
