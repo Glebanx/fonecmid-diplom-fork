@@ -22,4 +22,7 @@
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
   <content>Document.ВКМ_ВыплатаЗарплаты</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Report.ВКМ_РасчётыССотрудниками</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>InformationRegister.ВКМ_ГрафикОтпусков</content>
 </mdclass:Subsystem>
