@@ -11,7 +11,7 @@
   <name>ВКМ_ВыполненныеСотрудникомРаботы</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ выполненные сотрудником работы</value>
+    <value>Выполненные сотрудником работы</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <registerType>Turnovers</registerType>

@@ -3,7 +3,7 @@
   <name>ВКМ_РасчетЗарплаты</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ расчет зарплаты</value>
+    <value>Расчет зарплаты</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>

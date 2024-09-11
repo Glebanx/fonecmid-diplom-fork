@@ -12,7 +12,7 @@
   <name>ВКМ_УсловияОплатыСотрудников</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ условия оплаты сотрудников</value>
+    <value>Условия оплаты сотрудников</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <editType>InDialog</editType>
