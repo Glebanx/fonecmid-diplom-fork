@@ -202,19 +202,19 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
-      <name>ВКМ_Клиент</name>
-      <id>22</id>
+      <name>Клиент</name>
+      <id>46</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Список.ВКМ_Клиент</segments>
+        <segments>Список.Клиент</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВКМ_КлиентРасширеннаяПодсказка</name>
-        <id>24</id>
+        <name>КлиентРасширеннаяПодсказка</name>
+        <id>48</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -228,8 +228,8 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ВКМ_КлиентКонтекстноеМеню</name>
-        <id>23</id>
+        <name>КлиентКонтекстноеМеню</name>
+        <id>47</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -248,19 +248,19 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
-      <name>ВКМ_Договор</name>
-      <id>25</id>
+      <name>Договор</name>
+      <id>49</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Список.ВКМ_Договор</segments>
+        <segments>Список.Договор</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВКМ_ДоговорРасширеннаяПодсказка</name>
-        <id>27</id>
+        <name>ДоговорРасширеннаяПодсказка</name>
+        <id>51</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -274,8 +274,8 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ВКМ_ДоговорКонтекстноеМеню</name>
-        <id>26</id>
+        <name>ДоговорКонтекстноеМеню</name>
+        <id>50</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -294,19 +294,19 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
-      <name>ВКМ_Специалист</name>
-      <id>28</id>
+      <name>Специалист</name>
+      <id>52</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Список.ВКМ_Специалист</segments>
+        <segments>Список.Специалист</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВКМ_СпециалистРасширеннаяПодсказка</name>
-        <id>30</id>
+        <name>СпециалистРасширеннаяПодсказка</name>
+        <id>54</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -320,8 +320,8 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ВКМ_СпециалистКонтекстноеМеню</name>
-        <id>29</id>
+        <name>СпециалистКонтекстноеМеню</name>
+        <id>53</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -340,19 +340,19 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
-      <name>ВКМ_ДатаПроведенияРабот</name>
-      <id>31</id>
+      <name>ДатаПроведенияРабот</name>
+      <id>55</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Список.ВКМ_ДатаПроведенияРабот</segments>
+        <segments>Список.ДатаПроведенияРабот</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВКМ_ДатаПроведенияРаботРасширеннаяПодсказка</name>
-        <id>33</id>
+        <name>ДатаПроведенияРаботРасширеннаяПодсказка</name>
+        <id>57</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -366,8 +366,8 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ВКМ_ДатаПроведенияРаботКонтекстноеМеню</name>
-        <id>32</id>
+        <name>ДатаПроведенияРаботКонтекстноеМеню</name>
+        <id>56</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -386,19 +386,19 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
-      <name>ВКМ_ВремяНачалаРаботПлан</name>
-      <id>34</id>
+      <name>ВремяНачалаРаботПлан</name>
+      <id>58</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Список.ВКМ_ВремяНачалаРаботПлан</segments>
+        <segments>Список.ВремяНачалаРаботПлан</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВКМ_ВремяНачалаРаботПланРасширеннаяПодсказка</name>
-        <id>36</id>
+        <name>ВремяНачалаРаботПланРасширеннаяПодсказка</name>
+        <id>60</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -412,8 +412,8 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ВКМ_ВремяНачалаРаботПланКонтекстноеМеню</name>
-        <id>35</id>
+        <name>ВремяНачалаРаботПланКонтекстноеМеню</name>
+        <id>59</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -432,19 +432,19 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
-      <name>ВКМ_ВремяОкончанияРаботПлан</name>
-      <id>37</id>
+      <name>ВремяОкончанияРаботПлан</name>
+      <id>61</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Список.ВКМ_ВремяОкончанияРаботПлан</segments>
+        <segments>Список.ВремяОкончанияРаботПлан</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВКМ_ВремяОкончанияРаботПланРасширеннаяПодсказка</name>
-        <id>39</id>
+        <name>ВремяОкончанияРаботПланРасширеннаяПодсказка</name>
+        <id>63</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -458,8 +458,8 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ВКМ_ВремяОкончанияРаботПланКонтекстноеМеню</name>
-        <id>38</id>
+        <name>ВремяОкончанияРаботПланКонтекстноеМеню</name>
+        <id>62</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -478,19 +478,19 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
-      <name>ВКМ_ОписаниеПроблемы</name>
-      <id>40</id>
+      <name>ОписаниеПроблемы</name>
+      <id>64</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Список.ВКМ_ОписаниеПроблемы</segments>
+        <segments>Список.ОписаниеПроблемы</segments>
       </dataPath>
       <extendedTooltip>
-        <name>ВКМ_ОписаниеПроблемыРасширеннаяПодсказка</name>
-        <id>42</id>
+        <name>ОписаниеПроблемыРасширеннаяПодсказка</name>
+        <id>66</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -504,8 +504,8 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>ВКМ_ОписаниеПроблемыКонтекстноеМеню</name>
-        <id>41</id>
+        <name>ОписаниеПроблемыКонтекстноеМеню</name>
+        <id>65</id>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -760,15 +760,15 @@
 	ВКМ_ОбслуживаниеКлиента.Номер,
 	ВКМ_ОбслуживаниеКлиента.Дата,
 	ВКМ_ОбслуживаниеКлиента.Проведен,
-	ВКМ_ОбслуживаниеКлиента.ВКМ_Клиент,
-	ВКМ_ОбслуживаниеКлиента.ВКМ_Договор,
-	ВКМ_ОбслуживаниеКлиента.ВКМ_Специалист,
-	ВКМ_ОбслуживаниеКлиента.ВКМ_ДатаПроведенияРабот,
-	ВКМ_ОбслуживаниеКлиента.ВКМ_ВремяНачалаРаботПлан,
-	ВКМ_ОбслуживаниеКлиента.ВКМ_ВремяОкончанияРаботПлан,
-	ВКМ_ОбслуживаниеКлиента.ВКМ_ОписаниеПроблемы,
-	ВКМ_ОбслуживаниеКлиента.ВКМ_Комментарий,
-	ВКМ_ОбслуживаниеКлиента.ВКМ_ВыполненныеРаботы.*,
+	ВКМ_ОбслуживаниеКлиента.Клиент,
+	ВКМ_ОбслуживаниеКлиента.Договор,
+	ВКМ_ОбслуживаниеКлиента.Специалист,
+	ВКМ_ОбслуживаниеКлиента.ДатаПроведенияРабот,
+	ВКМ_ОбслуживаниеКлиента.ВремяНачалаРаботПлан,
+	ВКМ_ОбслуживаниеКлиента.ВремяОкончанияРаботПлан,
+	ВКМ_ОбслуживаниеКлиента.ОписаниеПроблемы,
+	ВКМ_ОбслуживаниеКлиента.Комментарий,
+	ВКМ_ОбслуживаниеКлиента.ВыполненныеРаботы.*,
 	ВКМ_ОбслуживаниеКлиента.МоментВремени,
 	НаличиеФайлов.ЕстьФайлы
 ИЗ

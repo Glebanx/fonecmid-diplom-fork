@@ -156,7 +156,7 @@
           <common>true</common>
         </userVisible>
         <dataPath xsi:type="form:DataPath">
-          <segments>Объект.ВКМ_Клиент</segments>
+          <segments>Объект.Клиент</segments>
         </dataPath>
         <extendedTooltip>
           <name>ВКМ_КлиентРасширеннаяПодсказка</name>
@@ -206,7 +206,7 @@
           <common>true</common>
         </userVisible>
         <dataPath xsi:type="form:DataPath">
-          <segments>Объект.ВКМ_Договор</segments>
+          <segments>Объект.Договор</segments>
         </dataPath>
         <extendedTooltip>
           <name>ВКМ_ДоговорРасширеннаяПодсказка</name>
@@ -256,7 +256,7 @@
           <common>true</common>
         </userVisible>
         <dataPath xsi:type="form:DataPath">
-          <segments>Объект.ВКМ_Специалист</segments>
+          <segments>Объект.Специалист</segments>
         </dataPath>
         <extendedTooltip>
           <name>ВКМ_СпециалистРасширеннаяПодсказка</name>
@@ -343,7 +343,7 @@
           <common>true</common>
         </userVisible>
         <dataPath xsi:type="form:DataPath">
-          <segments>Объект.ВКМ_ДатаПроведенияРабот</segments>
+          <segments>Объект.ДатаПроведенияРабот</segments>
         </dataPath>
         <extendedTooltip>
           <name>ВКМ_ДатаПроведенияРаботРасширеннаяПодсказка</name>
@@ -393,7 +393,7 @@
           <common>true</common>
         </userVisible>
         <dataPath xsi:type="form:DataPath">
-          <segments>Объект.ВКМ_ВремяНачалаРаботПлан</segments>
+          <segments>Объект.ВремяНачалаРаботПлан</segments>
         </dataPath>
         <extendedTooltip>
           <name>ВКМ_ВремяНачалаРаботПланРасширеннаяПодсказка</name>
@@ -443,7 +443,7 @@
           <common>true</common>
         </userVisible>
         <dataPath xsi:type="form:DataPath">
-          <segments>Объект.ВКМ_ВремяОкончанияРаботПлан</segments>
+          <segments>Объект.ВремяОкончанияРаботПлан</segments>
         </dataPath>
         <extendedTooltip>
           <name>ВКМ_ВремяОкончанияРаботПланРасширеннаяПодсказка</name>
@@ -561,7 +561,7 @@
       <common>true</common>
     </userVisible>
     <dataPath xsi:type="form:DataPath">
-      <segments>Объект.ВКМ_ОписаниеПроблемы</segments>
+      <segments>Объект.ОписаниеПроблемы</segments>
     </dataPath>
     <extendedTooltip>
       <name>ВКМ_ОписаниеПроблемыРасширеннаяПодсказка</name>
@@ -612,7 +612,7 @@
       <common>true</common>
     </userVisible>
     <dataPath xsi:type="form:DataPath">
-      <segments>Объект.ВКМ_ВыполненныеРаботы</segments>
+      <segments>Объект.ВыполненныеРаботы</segments>
     </dataPath>
     <titleLocation>None</titleLocation>
     <items xsi:type="form:FormField">
@@ -624,7 +624,7 @@
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Объект.ВКМ_ВыполненныеРаботы.LineNumber</segments>
+        <segments>Объект.ВыполненныеРаботы.LineNumber</segments>
       </dataPath>
       <extendedTooltip>
         <name>ВКМ_ВыполненныеРаботыНомерСтрокиРасширеннаяПодсказка</name>
@@ -670,7 +670,7 @@
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Объект.ВКМ_ВыполненныеРаботы.ВКМ_ОписаниеРабот</segments>
+        <segments>Объект.ВыполненныеРаботы.ОписаниеРабот</segments>
       </dataPath>
       <extendedTooltip>
         <name>ВКМ_ВыполненныеРаботыВКМ_ОписаниеРаботРасширеннаяПодсказка</name>
@@ -720,7 +720,7 @@
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Объект.ВКМ_ВыполненныеРаботы.ВКМ_ФактическиПотраченоЧасов</segments>
+        <segments>Объект.ВыполненныеРаботы.ФактическиПотраченоЧасов</segments>
       </dataPath>
       <extendedTooltip>
         <name>ВКМ_ВыполненныеРаботыВКМ_ФактическиПотраченоЧасовРасширеннаяПодсказка</name>
@@ -770,7 +770,7 @@
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Объект.ВКМ_ВыполненныеРаботы.ВКМ_ЧасыКОплатеКлиенту</segments>
+        <segments>Объект.ВыполненныеРаботы.ЧасыКОплатеКлиенту</segments>
       </dataPath>
       <extendedTooltip>
         <name>ВКМ_ВыполненныеРаботыВКМ_ЧасыКОплатеКлиентуРасширеннаяПодсказка</name>
@@ -995,7 +995,7 @@
       <common>true</common>
     </userVisible>
     <dataPath xsi:type="form:DataPath">
-      <segments>Объект.ВКМ_Комментарий</segments>
+      <segments>Объект.Комментарий</segments>
     </dataPath>
     <extendedTooltip>
       <name>ВКМ_КомментарийРасширеннаяПодсказка</name>
